@@ -43,7 +43,7 @@ and solving real-world problems through software.
 ## 💻 In Action  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="500" />
 </p>
 
 ---
