@@ -41,11 +41,12 @@ and solving real-world problems through software.
 ---
 
 
-## 📈 Activity  
+## 📊 GitHub Stats  
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" /> </p>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ujwalx23&theme=tokyonight" />
+</p>
 
 ## 💻 In Action  
 
