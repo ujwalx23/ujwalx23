@@ -41,14 +41,10 @@ and solving real-world problems through software.
 ---
  
 ## 📈 Activity  
-
-## 💻 In Action  
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" />
 </p>
 
----
 ---
 ## 💻 In Action  
 
@@ -78,7 +74,7 @@ and solving real-world problems through software.
 
 ## 🏁 Conclusion  
 
-I’m not just learning to code —  
+I’m not just learning to code 
 I’m learning to design systems, solve meaningful problems,  
 and build products that scale.
 
