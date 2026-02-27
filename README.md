@@ -11,15 +11,15 @@
 💻 Full-Stack Developer (TypeScript • Python)  
 🧠 Turning logic into real-world digital experiences  
 
-Focused on building scalable products, clean architectures,  
-and performance-driven web systems.
+I focus on building scalable products, writing clean architecture,  
+and solving real-world problems through software.
 
 ---
 
 ## 🔭 Currently Working On  
 
 🩺 **Medisoul** – Smart healthcare web platform  
-🔧 **Appliance Repair Application** – Service management & booking system  
+🔧 **Appliance Repair Application** – Service booking & management system  
 🌐 **Personal Portfolio** – High-performance developer portfolio  
 🤖 AI integrations & automation tools  
 
@@ -40,26 +40,18 @@ and performance-driven web systems.
 
 ---
 
-## 🧠 Developer Philosophy  
-
-⚡ Build fast, but build right  
-🧩 Think in systems, not features  
-🚀 Ship products, not just projects  
-
----
-
-## 🐍 Contribution Activity  
+## 💻 In Action  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ujwalx23/ujwalx23/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" />
 </p>
 
 ---
 
-## 💻 In Action  
+## 📈 Activity  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" />
 </p>
 
 ---
@@ -83,6 +75,14 @@ and performance-driven web systems.
 
 ---
 
+## 🏁 Conclusion  
+
+I’m not just learning to code —  
+I’m learning to design systems, solve meaningful problems,  
+and build products that scale.
+
+Focused. Consistent. Building every day.
+
 <p align="center">
-  <i>Build. Scale. Repeat.</i>
+  <strong>Build. Scale. Evolve.</strong>
 </p>
