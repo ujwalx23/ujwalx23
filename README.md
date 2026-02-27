@@ -39,6 +39,8 @@ and solving real-world problems through software.
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ---
+ 
+## 📈 Activity  
 
 ## 💻 In Action  
 
@@ -47,22 +49,14 @@ and solving real-world problems through software.
 </p>
 
 ---
- 
-## 📈 Activity  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujwalx23&theme=tokyonight&no-frame=true&row=1&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwalx23&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  🗓️ <strong>Joined GitHub in 2024</strong>
-</p>
 ---
+## 💻 In Action  
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="500" />
+</p>
+
+---
 ## 🌐 Connect With Me  
 
 <p align="center">
