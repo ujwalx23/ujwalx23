@@ -41,10 +41,16 @@ and solving real-world problems through software.
 ---
  
 ## 📈 Activity  
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  🗂️ <strong>Total Repositories:</strong> 11+  
+  🔥 <strong>Contributions (Last Year):</strong> 300+  
+  🗓️ <strong>Joined GitHub:</strong> 2024
+</p>
 ---
 ## 💻 In Action  
 
