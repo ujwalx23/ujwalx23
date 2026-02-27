@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ujwal Singh</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast</h3>
 
-<!--
-**ujwalx23/ujwalx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Passionate about Data Structures & Algorithms
+- 🌱 Currently learning System Design & DevOps
+- 💬 Ask me about React, Node.js, Python
+- ⚡ Fun fact: I love building cool products
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,github,vscode,java" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
