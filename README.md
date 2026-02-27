@@ -38,10 +38,13 @@ and solving real-world problems through software.
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
+---
+
 
 ## 📈 Activity  
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" /> </p>
+
 ---
 
 ## 💻 In Action  
