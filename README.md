@@ -47,11 +47,19 @@ and solving real-world problems through software.
 </p>
 
 ---
-
+📈 Activity  
 ## 📈 Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&hide=stars,issues&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujwalx23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  🗓️ Joined GitHub in <strong>2024</strong>
 </p>
 
 ---
