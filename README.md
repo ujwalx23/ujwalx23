@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 🎓 Computer Engineer based in Mumbai 🇮🇳  
 💻 Full-Stack Developer (TypeScript • Python)  
@@ -16,7 +16,7 @@ and solving real-world problems through software.
 
 ---
 
-## 🔭 Currently Working On  
+##  Currently Working On  
 
 🩺 **Medisoul** – Smart healthcare web platform  
 🔧 **Appliance Repair Application** – Service booking & management system  
@@ -43,25 +43,24 @@ and solving real-world problems through software.
 ## 💻 In Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 </p>
 
 ---
-📈 Activity  
+ 
 ## 📈 Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&hide=stars,issues&count_private=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ujwalx23&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujwalx23&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwalx23&theme=tokyo-night" />
 </p>
 
 <p align="center">
-  🗓️ Joined GitHub in <strong>2024</strong>
+  🗓️ <strong>Joined GitHub in 2024</strong>
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
