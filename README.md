@@ -38,21 +38,12 @@ and solving real-world problems through software.
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
---- 
+
 ## 📈 Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&hide=stars,issues&count_private=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujwalx23&theme=tokyonight" />
-</p>
-
-<p align="center">
-  🗓️ Joined GitHub in <strong>2024</strong>
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalx23&theme=tokyonight" /> </p>
 ---
+
 ## 💻 In Action  
 
 <p align="center">
@@ -79,7 +70,7 @@ and solving real-world problems through software.
 
 ---
 
-## 🌟 Inspiration  
+## Inspiration  
 
 I’m inspired by people who stay consistent and passionate about their goals.
  
@@ -93,7 +84,6 @@ patience, and long-term vision.
 <p align="center">
   <strong>Consistency builds greatness.</strong>
 </p>
----
 
 ## 🏁 Conclusion  
 
