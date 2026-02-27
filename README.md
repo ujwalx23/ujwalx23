@@ -38,18 +38,19 @@ and solving real-world problems through software.
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
----
- 
+--- 
 ## 📈 Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&hide=stars,issues&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  🗂️ <strong>Total Repositories:</strong> 11+  
-  🔥 <strong>Contributions (Last Year):</strong> 300+  
-  🗓️ <strong>Joined GitHub:</strong> 2024
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujwalx23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  🗓️ Joined GitHub in <strong>2024</strong>
 </p>
 ---
 ## 💻 In Action  
@@ -76,6 +77,22 @@ and solving real-world problems through software.
   </a>
 </p>
 
+---
+
+## 🌟 Inspiration  
+
+I’m inspired by people who stay consistent and passionate about their goals.
+ 
+- **Elon Musk** - for pushing engineering and innovation beyond limits.  
+- **OpenAI** - for shaping the future of intelligent systems.
+- **Rim** - for bringing dedication in life. 
+
+Seeing real dedication reminds me that growth is built through effort,  
+patience, and long-term vision.
+
+<p align="center">
+  <strong>Consistency builds greatness.</strong>
+</p>
 ---
 
 ## 🏁 Conclusion  
