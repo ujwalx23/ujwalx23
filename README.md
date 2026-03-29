@@ -51,7 +51,7 @@ and solving real-world problems through software.
 ## 💻 In Action  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB6eTBhZGQxcGhhbnh2d3EzaG9oejhxM3UzeDRzeDZibnN6ZTJ2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif" width="500" />
 </p>
 
 ---
