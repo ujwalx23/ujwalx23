@@ -95,7 +95,7 @@ I’m not just learning to code
 I’m learning to design systems, solve meaningful problems,  
 and build products that scale.
 
-Focused. Consistent. Building every day.
+Growthly focused. Consistent. Building every day.
 
 <p align="center">
   <strong>Build. Scale. Evolve.</strong>
