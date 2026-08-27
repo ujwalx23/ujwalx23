@@ -30,15 +30,6 @@ and solving real-world problems through software.
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ---
-
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwalx23&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=ujwalx23&theme=tokyonight" />
-</p>
-
 ## 💻 In Action  
 
 <p align="center">
