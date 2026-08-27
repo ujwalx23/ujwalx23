@@ -77,10 +77,6 @@ and solving real-world problems through software.
 ## Inspiration  
 
 I’m inspired by people who stay consistent and passionate about their goals.
- 
-- **Elon Musk** - for pushing engineering and innovation beyond limits
-- **Tech innovators and problem solvers** - for shaping the future of intelligent systems
-- **RiSi** - for bringing discipline and dedication in life
 
 Seeing real dedication reminds me that growth is built through effort,  
 patience, and long-term vision.
