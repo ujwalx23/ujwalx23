@@ -61,7 +61,7 @@ and solving real-world problems through software.
 I’m inspired by people who stay consistent and passionate about their goals.
 
 Seeing real dedication reminds me that growth is built through effort,  
-patience, and long-term vision.
+patience and long-term vision.
 
 <p align="center">
   <strong>Consistency builds greatness.</strong>
