@@ -12,16 +12,7 @@
 🧠 Turning logic into real-world digital experiences  
 
 I focus on building scalable products, writing clean architecture,  
-and solving real-world problems through software.
-
----
-
-##  Currently Working On  
-
-🩺 **Medisoul** – Smart healthcare web platform  
-🔧 **Appliance Repair Application** – Service booking & management system  
-🌐 **Personal Portfolio** – High-performance developer portfolio  
-🤖 AI integrations & automation tools  
+and solving real-world problems through software. 
 
 ---
 
